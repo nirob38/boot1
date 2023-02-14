@@ -1,0 +1,9 @@
+.catagories{
+    display: flex;
+    align-items: center;
+    margin: 30px;
+    gap: 50px;
+    background-color: grey;
+    width: 1050px;
+    border-radius: 10px;
+}
